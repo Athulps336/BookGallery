@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Pacifico&family=Tilt+Prism&display=swap');
+.row{
+    width: 18%;
+    height: 300px;
+    /* border: 2px black solid; */
+    float: left;
+    padding: 10px;
+
+}
+body{
+    background-color: bisque ;
+   background-image: url("./images/BookCourt_iStock-690358116-e1515177346323.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+h1{
+    font-family: 'Tilt Prism', cursive;
+    text-align: center;
+}
+img{
+    width: 100%;
+    height: 250px;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
